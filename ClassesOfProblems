@@ -4,8 +4,13 @@ These are the general categories of problems that you might encounter.
 
 
 1. Buffer
+
 2. Caching
+
 3. Performance
+
 4. MultiThreading
+
 5. Serialization
+
 6. User Error
