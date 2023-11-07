@@ -5,12 +5,12 @@ These are the general categories of problems that you might encounter.
 
 1. Buffer
 
-2. Caching
+1. Caching
 
-3. Performance
+1. Performance
 
-4. MultiThreading
+1. MultiThreading
 
-5. Serialization
+1. Serialization
 
-6. User Error
+1. User Error
