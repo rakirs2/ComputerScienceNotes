@@ -13,4 +13,8 @@ These are the general categories of problems that you might encounter.
 
 1. Serialization
 
+1. Plumbing
+
 1. User Error
+
+1. Bit Flips
